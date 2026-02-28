@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+frame_*.png
+*_detected.*
+*_dashboard.*
+*_counted.*
+.DS_Store
